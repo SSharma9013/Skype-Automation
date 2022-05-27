@@ -1,0 +1,7 @@
+﻿Name		Instance ID		Instance Type	Availability Zone	Instance State				
+prod main 4	i-01e81f5fd3cb1430e	t2.small		us-west-2c	 	stopped
+prod main 3	i-03f4818f011b73857	t2.small		us-west-2a	 	running
+dev		i-07bf9fe8390d0aa5c	t2.micro		us-west-2a	 	running
+dev2		i-0e1c0c363cab53535	t2.micro		us-west-2b	 	stopped
+prod main	i-0e9fff4f2fd155ff1	t2.micro		us-west-2b	 	stopped
+<blank>		i-01179b79319eaf39a	c4.2xlarge		us-west-1a		stopped
